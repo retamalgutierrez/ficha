@@ -1,6 +1,5 @@
-Ficha Virtual, aplicacion JAVA SE para la administracion de fichas medicas
+Ficha Virtual
 =====
-
-Integrantes:
+Aplicacion JAVA SE para la administracion de fichas medicas
 
 Sergio Retamal Gutiérrez
