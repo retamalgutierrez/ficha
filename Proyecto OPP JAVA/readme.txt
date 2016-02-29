@@ -1,4 +1,0 @@
-Integrantes:
-
-
-Sergio Retamal Gutiérrez
